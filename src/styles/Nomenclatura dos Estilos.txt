@@ -1,0 +1,3 @@
+- Ao colocar module no nome (products.module.scss), este arquivo estará disponível somente dentro do arquivo que será importado.
+
+- Estilos sem <module> no nome, caso importados, suas tags serão obrigatoriamente utilizadas em toda a aplicação
